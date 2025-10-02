@@ -139,5 +139,10 @@ VS Code • Git & GitHub • Postman • Nginx • GitHub Actions • Linux CLI 
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kuldeep700&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+
+<p align="center">
   <sub>🕓 Last updated on <strong>October 2, 2025</strong></sub>
 </p>
