@@ -139,7 +139,7 @@ VS Code • Git & GitHub • Postman • Nginx • GitHub Actions • Linux CLI 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theforage&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=codewithharry&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 
