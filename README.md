@@ -136,6 +136,18 @@ VS Code • Git & GitHub • Postman • Nginx • GitHub Actions • Linux CLI 
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="coding gif" width="400" />
 </p>
 
+<!-- Coding GIF Gallery -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Typing code fast" width="400" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat coding" width="400" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix code rain" width="400" />
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" alt="Terminal hacking" width="400" />
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="Glitchy code" width="400" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Typing loop" width="400" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Working on code" width="400" />
+</p>
+
+
 ---
 
 <p align="center">
